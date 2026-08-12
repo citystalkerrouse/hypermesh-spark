@@ -36,4 +36,4 @@ All-in-one **HyperMesh Spark** engineering suite featuring structural analysis, 
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion.    
+> This repository is provided for educational and utility purposes only. Use at your own discretion.     
